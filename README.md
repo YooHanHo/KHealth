@@ -9,16 +9,20 @@
 필요 상품 구매 가능.
 프로젝트 사용 기술
 Front
+
 ![image](https://user-images.githubusercontent.com/110207398/215393578-154943b9-a4e1-47d7-8054-a30351e260ed.png)
 
 Back
+
 ![image](https://user-images.githubusercontent.com/110207398/215393600-c644b98c-7fbc-487f-9b21-e18a7551875d.png)
 
 주요 기능 설명
-회원가입/로그인
-Tips게시판, 댓글 / Q&A 게시판, 댓글
-상품 구매 마켓 (결제api) / 상품 위시리스트(찜)
-마이페이지 / 관리자페이지
+- 회원가입/로그인
+- Tips게시판, 댓글 / Q&A 게시판, 댓글
+- 상품 구매 마켓 (결제api) / 상품 위시리스트(찜)
+- 마이페이지 / 관리자페이지
+
+
 주요 기능
 로그인 화면
 ![image](https://user-images.githubusercontent.com/110207398/215393622-bef83eb7-6d00-4102-8586-896b95952c51.png)
